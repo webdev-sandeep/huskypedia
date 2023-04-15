@@ -55,7 +55,7 @@ const Home = () => {
             <img
               src={readingHusky}
               alt="husky"
-              className={`absolute h-full w-full transition-all duration-700`}
+              className={`absolute h-full w-full transition-all duration-700 object-cover`}
             />
             <button
               className={`bg-bright-color font-semibold text-2xl px-6 py-2 rounded mb-8 shadow-btn hover:scale-105 duration-500 ease-in-out relative`}
