@@ -48,7 +48,7 @@ const Header = () => {
         </button>
         <Link
           to={"/login"}
-          className="block hover:bg-bright-color hover:border-skin-color p-4"
+          className="block hover:bg-bright-color border-b-2 border-transparent hover:border-skin-color p-4"
         >
           Sign In
         </Link>
